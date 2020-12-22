@@ -1,0 +1,1 @@
+The number of elements in the filter after lookup of elements in set A are: 507

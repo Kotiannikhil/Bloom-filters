@@ -1,0 +1,2 @@
+The number of elements in the filter after lookup of elements in set A are: 1000
+The number of elements in the filter after lookup of elements in set B are: 8
